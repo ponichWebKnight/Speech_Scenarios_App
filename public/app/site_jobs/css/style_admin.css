@@ -1,0 +1,39 @@
+*{
+    padding: 0; margin: 0;
+}
+body{
+    background: #e6e6e6;
+}
+.titleAdmin{
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 100px;
+}
+/* ExtContextMenu */
+
+.k-multiselect-wrap {
+    position: relative;
+    border-width: 0;
+    border-style: solid;
+    border-radius: 4px;
+    /* background-color: #FFF; */
+    min-height: 2.04em;
+}
+.formSelect{
+    height: 42px;
+}
+.miniTitle{
+    margin-left: 25px;
+    font-size: 15px;
+}
+.btn-sub button{
+    margin-top: 10px;
+}
+
+.btn-close{
+    margin-left: 190px;
+    margin-top: -57px;
+}
+.prevLink{
+    margin-top: 10px;
+}
